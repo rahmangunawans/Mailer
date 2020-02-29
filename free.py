@@ -54,8 +54,8 @@ async def kirim_email(sender, target):
 
 host = "email-smtp.us-west-2.amazonaws.com"
 port = int(587)
-user = "AKIA2IJANXFFO6A7Z2GA"
-password = "BOeoCphZ3f5g9Rv3EBB3evlVqRF7/BWQG82Og4xTulOl"
+user = "nama penggunaan"
+password = "kata sandi"
 sender_mail ="noreply@gatjed.com"
 html_file = "letteramazon.html"
 file_list = "list.txt"
